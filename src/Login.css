@@ -1,0 +1,14 @@
+.mystyle {
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 0 0 5px #ec0606;
+}
+
+.button {
+    width: 0 auto;
+    float: left;
+}
+
+* {
+    background-color: lightgreen;
+}
